@@ -13,6 +13,8 @@ coverage](https://codecov.io/gh/tidyverse/ggplot2/branch/main/graph/badge.svg)](
 
 ## Overview
 
+Superenhanced version of GGPLOT!!!!
+
 ggplot2 is a system for declaratively creating graphics, based on [The
 Grammar of
 Graphics](https://www.amazon.com/Grammar-Graphics-Statistics-Computing/dp/0387245448/ref=as_li_ss_tl).
