@@ -115,13 +115,8 @@
 
 #' An updated and expanded version of the mammals sleep dataset
 #'
-#' I have no idea what this is
 #'
-#' This is an updated and expanded version of the mammals sleep dataset.
-#' Updated sleep times and weights were taken from V. M. Savage and G. B.
-#' West. A quantitative, theoretical framework for understanding mammalian
-#' sleep. Proceedings of the National Academy of Sciences, 104 (3):1051-1056,
-#' 2007.
+#' I feel like rewriting this.
 #'
 #' Additional variables order, conservation status and vore were added from
 #' wikipedia.
