@@ -3,6 +3,8 @@ NULL
 
 #' Construct aesthetic mappings
 #'
+#' This is Danny's cooler version!
+#'
 #' Aesthetic mappings describe how variables in the data are mapped to visual
 #' properties (aesthetics) of geoms. Aesthetic mappings can be set in
 #' [ggplot()] and in individual layers.
