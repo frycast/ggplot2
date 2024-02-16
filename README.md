@@ -13,7 +13,7 @@ coverage](https://codecov.io/gh/tidyverse/ggplot2/branch/main/graph/badge.svg)](
 
 ## Overview
 
-I am a horse.
+I am a human.
 
 ## Installation
 
